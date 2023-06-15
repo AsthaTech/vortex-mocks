@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "data": {
+        "access_token": "eyJhbGciOiJSUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAi.......",
+        "user_name": "JOHN DOE",
+        "login_time": "2023-Mar-29 13:10:50",
+        "email": "JOHN.DOE@GMAIL.COM",
+        "mobile": "9999999999",
+        "exchanges": [
+            "NSE_EQ",
+            "NSE_FO",
+            "MCX_FO",
+            "NSE_CUR"
+        ],
+        "product_types": [
+            "INTRADAY",
+            "DELIVERY",
+            "MTF"
+        ],
+        "others": {
+            "userCode": "NXAAE",
+            "POA": 2
+        },
+        "user_id": "XX9999",
+        "tradingActive": true
+    }
+}

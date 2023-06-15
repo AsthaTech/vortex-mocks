@@ -1,0 +1,135 @@
+{
+    "status": "success",
+    "data": {
+        "NSE_EQ-22": {
+            "last_trade_time": 1681122520,
+            "last_update_time": 1681122520,
+            "last_trade_price": 1740.95,
+            "volume": 407043,
+            "average_trade_price": 1736.52,
+            "total_buy_quantity": 586,
+            "open_price": 1718,
+            "high_price": 1915,
+            "low_price": 1566.85,
+            "close_price": 1712,
+            "depth": {
+                "buy": [
+                    {
+                        "price": 1740.95,
+                        "quantity": 586
+                    },
+                    {},
+                    {},
+                    {},
+                    {}
+                ],
+                "sell": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                ]
+            },
+            "dpr_high": 188320,
+            "dpr_low": 154080
+        },
+        "NSE_EQ-26000": {
+            "last_trade_time": 316111421,
+            "last_update_time": 1681120911,
+            "last_trade_price": 17624.05,
+            "total_buy_quantity": 7738434276633480,
+            "open_price": 17634.9,
+            "high_price": 17694.1,
+            "low_price": 17597.95,
+            "close_price": 17599.15,
+            "depth": {
+                "buy": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                ],
+                "sell": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                ]
+            }
+        },
+        "NSE_FO-135938": {
+            "last_trade_time": 1681120758,
+            "last_update_time": 1681120758,
+            "last_trade_price": 104.1,
+            "volume": 23700,
+            "average_trade_price": 103.33,
+            "total_buy_quantity": 19500,
+            "total_sell_quantity": 12450,
+            "open_interest": 15450,
+            "open_price": 100.15,
+            "high_price": 299.85,
+            "low_price": 0.05,
+            "close_price": 99.8,
+            "depth": {
+                "buy": [
+                    {
+                        "price": 102.15,
+                        "quantity": 150,
+                        "orders": 1
+                    },
+                    {
+                        "price": 102.1,
+                        "quantity": 150,
+                        "orders": 1
+                    },
+                    {
+                        "price": 102.05,
+                        "quantity": 150,
+                        "orders": 1
+                    },
+                    {
+                        "price": 96.5,
+                        "quantity": 150,
+                        "orders": 1
+                    },
+                    {
+                        "price": 87,
+                        "quantity": 4500,
+                        "orders": 1
+                    }
+                ],
+                "sell": [
+                    {
+                        "price": 106.55,
+                        "quantity": 150
+                    },
+                    {
+                        "price": 106.6,
+                        "quantity": 150,
+                        "orders": 1
+                    },
+                    {
+                        "price": 106.65,
+                        "quantity": 300,
+                        "orders": 2
+                    },
+                    {
+                        "price": 107.75,
+                        "quantity": 150,
+                        "orders": 1
+                    },
+                    {
+                        "price": 111.8,
+                        "quantity": 150,
+                        "orders": 1
+                    }
+                ]
+            },
+            "dpr_high": 28380,
+            "dpr_low": 5
+        }
+    }
+}

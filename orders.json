@@ -1,0 +1,44 @@
+{
+    "status": "success",
+    "orders": [
+        {
+            "order_id": "NXAAE00003K3",
+            "exchange": "NSE_EQ",
+            "token": 14366,
+            "order_number": "0",
+            "status": "AMOACCEPTED",
+            "error_reason": "",
+            "transaction_type": "BUY",
+            "product": "INTRADAY",
+            "variety": "SL",
+            "total_quantity": 1,
+            "pending_quantity": 1,
+            "traded_quantity": 0,
+            "disclosed_quantity": 0,
+            "disclosed_quantity_remaining": 0,
+            "order_price": 9.50,
+            "trigger_price": 9.20,
+            "traded_price": 0.0,
+            "validity": "DAY",
+            "validity_days": 0,
+            "symbol": "IDEA",
+            "series": "EQ",
+            "instrument_name": "",
+            "expiry_date": "",
+            "strike_price": 0.00,
+            "option_type": "  ",
+            "lot_size": 1,
+            "order_created_at": "2023-03-27 18:47:41",
+            "initiated_by": "MOBILE-Ex",
+            "modified_by": "MOBILE-Ex",
+            "is_amo": true,
+            "order_identifier": "app=dev_1"
+        }
+    ],
+    "metadata": {
+        "total_records": 1,
+        "all_records": 1,
+        "completed_records": 0,
+        "open_records": 1
+    }
+}

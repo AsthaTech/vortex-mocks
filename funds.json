@@ -1,0 +1,30 @@
+{
+    "nse": {
+        "deposit": 22449.64,
+        "funds_transferred": 0,
+        "collateral": 8839.36,
+        "credit_for_sale": 0,
+        "option_credit_for_sale": 0,
+        "limit_utilization": -66.92,
+        "funds_withdrawn": 0,
+        "mtm_and_booked_loss": 0,
+        "booked_profit": 0,
+        "total_trading_power": 31289,
+        "total_utilization": -66.92,
+        "net_available": 31222.08
+    },
+    "mcx": {
+        "deposit": 11995.21,
+        "funds_transferred": 0,
+        "collateral": 0,
+        "credit_for_sale": 0,
+        "option_credit_for_sale": 0,
+        "limit_utilization": 0,
+        "funds_withdrawn": 0,
+        "mtm_and_booked_loss": 0,
+        "booked_profit": 0,
+        "total_trading_power": 11995.21,
+        "total_utilization": 0,
+        "net_available": 11995.21
+    }
+}

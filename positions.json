@@ -1,0 +1,54 @@
+{
+    "status": "success",
+    "data": {
+        "net": [
+            {
+                "exchange": "NSE_EQ",
+                "symbol": "ITC",
+                "expiry_date": "",
+                "option_type": "",
+                "token": 1660,
+                "product": "MTF",
+                "quantity": 2,
+                "overnight_buy_value": 380.00,
+                "overnight_sell_value": 0.00,
+                "overnight_average_price": 190.00,
+                "lot_size": 1,
+                "multiplier": 1.00,
+                "average_price": 357.30,
+                "value": -714.60,
+                "buy_value": 714.60,
+                "sell_value": 0.00,
+                "buy_quantity": 2,
+                "sell_quantity": 0,
+                "buy_price": 357.30,
+                "sell_price": 0.00
+            }
+        ],
+        "day": [
+            {
+                "exchange": "NSE_EQ",
+                "symbol": "ITC",
+                "expiry_date": "",
+                "option_type": "",
+                "token": 1660,
+                "product": "MTF",
+                "quantity": 1,
+                "overnight_buy_value": 0.00,
+                "overnight_sell_value": 0.00,
+                "overnight_average_price": 0.00,
+                "lot_size": 1,
+                "multiplier": 1.00,
+                "average_price": 380.00,
+                "value": -380.00,
+                "buy_value": 380.00,
+                "sell_value": 0.00,
+                "buy_quantity": 1,
+                "sell_quantity": 0,
+                "buy_price": 380.00,
+                "sell_price": 0.00
+            }
+        ]
+    }
+ }
+ 

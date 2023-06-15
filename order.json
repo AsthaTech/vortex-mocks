@@ -1,0 +1,8 @@
+{
+    "status": "success",
+    "code": "s-101",
+    "message": "Order Entry Sent to OMS",
+    "data": {
+        "orderId": "NXAAE00002K3"
+    }
+}

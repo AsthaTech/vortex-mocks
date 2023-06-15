@@ -1,0 +1,41 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "isin": "IN0020210244",
+            "nse": {
+                "token": 7843,
+                "exchange": "NSE_EQ",
+                "symbol": "654GS2032"
+            },
+            "bse": {
+                "token": 800440,
+                "exchange": "BSE_EQ",
+                "symbol": "654GS2032"
+            },
+            "total_free": 1,
+            "dp_free": 1,
+            "pool_free": 0,
+            "t1_quantity": 0,
+            "average_price": 95.00,
+            "collateral_quantity": 0,
+            "collateral_value": 0.00
+        },
+        {
+            "isin": "INE721Z01010",
+            "nse": {
+                "token": 1030,
+                "exchange": "NSE_EQ",
+                "symbol": "AARON"
+            },
+            "bse": {},
+            "total_free": 1,
+            "dp_free": 1,
+            "pool_free": 0,
+            "t1_quantity": 0,
+            "average_price": 137.70,
+            "collateral_quantity": 0,
+            "collateral_value": 0.00
+        }]
+    }
+    
