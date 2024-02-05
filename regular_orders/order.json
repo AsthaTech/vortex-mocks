@@ -3,6 +3,6 @@
     "code": "s-101",
     "message": "Order Entry Sent to OMS",
     "data": {
-        "orderId": "NXAAE00002K3"
+        "order_id": "NXAAE00002K3"
     }
 }
