@@ -1,0 +1,37 @@
+{
+    "data": {
+        "nse": [
+            {
+                "account_number": "999999999999999",
+                "ifsc": "HDFC00000001",
+                "is_primary": false,
+                "account_type": "SAVINGS",
+                "bank_name": "HDFC BANK"
+            },
+            {
+                "account_number": "1111111111",
+                "ifsc": "KKBK0001111",
+                "is_primary": true,
+                "account_type": "SAVINGS",
+                "bank_name": "KOTAK MAHINDRA BANK LIMITED"
+            }
+        ],
+        "mcx": [
+            {
+                "account_number": "999999999999999",
+                "ifsc": "HDFC00000001",
+                "is_primary": false,
+                "account_type": "SAVINGS",
+                "bank_name": "HDFC BANK"
+            },
+            {
+                "account_number": "1111111111",
+                "ifsc": "KKBK0001111",
+                "is_primary": true,
+                "account_type": "SAVINGS",
+                "bank_name": "KOTAK MAHINDRA BANK LIMITED"
+            }
+        ]
+    },
+    "status": "success"
+}

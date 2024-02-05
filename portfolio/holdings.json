@@ -1,5 +1,6 @@
 {
-    "status": "success",
+    "status": "Success",
+    "message": "Holdings fetched successfully",
     "data": [
         {
             "isin": "IN0020210244",
@@ -17,9 +18,11 @@
             "dp_free": 1,
             "pool_free": 0,
             "t1_quantity": 0,
-            "average_price": 95.00,
+            "average_price": 95,
+            "last_price": 97,
+            "product": "DELIVERY",
             "collateral_quantity": 0,
-            "collateral_value": 0.00
+            "collateral_value": 0
         },
         {
             "isin": "INE721Z01010",
@@ -28,14 +31,15 @@
                 "exchange": "NSE_EQ",
                 "symbol": "AARON"
             },
-            "bse": {},
             "total_free": 1,
             "dp_free": 1,
             "pool_free": 0,
             "t1_quantity": 0,
-            "average_price": 137.70,
+            "average_price": 137.7,
+            "last_price": 278.25,
+            "product": "DELIVERY",
             "collateral_quantity": 0,
-            "collateral_value": 0.00
-        }]
-    }
-    
+            "collateral_value": 0
+        }
+    ]
+}

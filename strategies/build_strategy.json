@@ -1,0 +1,2569 @@
+{
+    "data": {
+        "symbol": "BANKNIFTY",
+        "token": 26009,
+        "ltp": 45756.65,
+        "strategies": [
+            {
+                "strategy_name": "Bear Call Spread",
+                "trading_opportunities": [
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43857,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45900,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745900CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 225,
+                                    "greeks": {
+                                        "theta": -71.42363883753528,
+                                        "delta": 0.4252382477729244,
+                                        "gamma": 0.0005379890458170417,
+                                        "vega": 13.270034209750762,
+                                        "iv": 21.515006374102086
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43853,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45800,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745800CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 313.9,
+                                    "greeks": {
+                                        "theta": -83.72397522325582,
+                                        "delta": 0.4830785569751289,
+                                        "gamma": 0.00047469748975908707,
+                                        "vega": 13.49577184339326,
+                                        "iv": 24.798400059808046
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 166.50000000000034,
+                        "max_profit": 1333.4999999999995,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45888.9
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43859,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46000,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746000CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 227.45,
+                                    "greeks": {
+                                        "theta": -80.39926395851695,
+                                        "delta": 0.3895475587119388,
+                                        "gamma": 0.00045774803632163175,
+                                        "vega": 12.986843921523898,
+                                        "iv": 24.746854265686125
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43853,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45800,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745800CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 313.9,
+                                    "greeks": {
+                                        "theta": -83.72397522325582,
+                                        "delta": 0.4830785569751289,
+                                        "gamma": 0.00047469748975908707,
+                                        "vega": 13.49577184339326,
+                                        "iv": 24.798400059808046
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 1703.2500000000002,
+                        "max_profit": 1296.7499999999998,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45886.45
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43867,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46100,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746100CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 192.1,
+                                    "greeks": {
+                                        "theta": -77.41965440001685,
+                                        "delta": 0.3452494429074517,
+                                        "gamma": 0.00043887594559829436,
+                                        "vega": 12.478455741002849,
+                                        "iv": 24.800585524644703
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43853,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45800,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745800CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 313.9,
+                                    "greeks": {
+                                        "theta": -83.72397522325582,
+                                        "delta": 0.4830785569751289,
+                                        "gamma": 0.00047469748975908707,
+                                        "vega": 13.49577184339326,
+                                        "iv": 24.798400059808046
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 2673.0000000000005,
+                        "max_profit": 1826.9999999999998,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45921.8
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43869,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46200,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746200CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 160.2,
+                                    "greeks": {
+                                        "theta": -73.29625084436155,
+                                        "delta": 0.3027309196778798,
+                                        "gamma": 0.0004159883991226948,
+                                        "vega": 11.82077170326032,
+                                        "iv": 24.786059046164155
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43853,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45800,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745800CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 313.9,
+                                    "greeks": {
+                                        "theta": -83.72397522325582,
+                                        "delta": 0.4830785569751289,
+                                        "gamma": 0.00047469748975908707,
+                                        "vega": 13.49577184339326,
+                                        "iv": 24.798400059808046
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 3694.5,
+                        "max_profit": 2305.5,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45953.7
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43883,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46300,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746300CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 109,
+                                    "greeks": {
+                                        "theta": -59.92090945286485,
+                                        "delta": 0.24284434423462875,
+                                        "gamma": 0.0004086726869209222,
+                                        "vega": 10.593545700432696,
+                                        "iv": 22.610418498516083
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43853,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45800,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745800CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 313.9,
+                                    "greeks": {
+                                        "theta": -83.72397522325582,
+                                        "delta": 0.4830785569751289,
+                                        "gamma": 0.00047469748975908707,
+                                        "vega": 13.49577184339326,
+                                        "iv": 24.798400059808046
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 4426.5,
+                        "max_profit": 3073.4999999999995,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            46004.9
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43886,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46400,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746400CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 107.55,
+                                    "greeks": {
+                                        "theta": -62.665609006876274,
+                                        "delta": 0.2249318985285887,
+                                        "gamma": 0.000358954445613324,
+                                        "vega": 10.15309945284632,
+                                        "iv": 24.67187598813325
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43853,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45800,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745800CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 313.9,
+                                    "greeks": {
+                                        "theta": -83.72397522325582,
+                                        "delta": 0.4830785569751289,
+                                        "gamma": 0.00047469748975908707,
+                                        "vega": 13.49577184339326,
+                                        "iv": 24.798400059808046
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 5904.750000000001,
+                        "max_profit": 3095.2499999999995,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            46006.35
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43888,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46500,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746500CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 89,
+                                    "greeks": {
+                                        "theta": -57.684375234032046,
+                                        "delta": 0.19298961734215003,
+                                        "gamma": 0.0003255271110171984,
+                                        "vega": 9.276561290805194,
+                                        "iv": 24.85665725544095
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43853,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45800,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745800CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 313.9,
+                                    "greeks": {
+                                        "theta": -83.72397522325582,
+                                        "delta": 0.4830785569751289,
+                                        "gamma": 0.00047469748975908707,
+                                        "vega": 13.49577184339326,
+                                        "iv": 24.798400059808046
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 7126.5,
+                        "max_profit": 3373.4999999999995,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            46024.9
+                        ]
+                    }
+                ]
+            },
+            {
+                "strategy_name": "Bear Put Spread",
+                "trading_opportunities": [
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43854,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45800,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745800PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 329.05,
+                                    "greeks": {
+                                        "theta": -83.72397522325582,
+                                        "delta": -0.5169214430248711,
+                                        "gamma": 0.00047469748975908707,
+                                        "vega": 13.49577184339326,
+                                        "iv": 24.798400059808046
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43852,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45700,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745700PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 284.7,
+                                    "greeks": {
+                                        "theta": -77.89743262598905,
+                                        "delta": -0.46774316820339285,
+                                        "gamma": 0.0005077851049905488,
+                                        "vega": 13.463745401984966,
+                                        "iv": 23.127506021410227
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 665.2500000000003,
+                        "max_profit": 834.7499999999997,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45755.65
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43854,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45800,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745800PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 329.05,
+                                    "greeks": {
+                                        "theta": -83.72397522325582,
+                                        "delta": -0.5169214430248711,
+                                        "gamma": 0.00047469748975908707,
+                                        "vega": 13.49577184339326,
+                                        "iv": 24.798400059808046
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43850,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45600,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745600PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 242.45,
+                                    "greeks": {
+                                        "theta": -77.15966447011786,
+                                        "delta": -0.4178941321001028,
+                                        "gamma": 0.0004943085418469367,
+                                        "vega": 13.220825181471941,
+                                        "iv": 23.329386429395527
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 1299.0000000000005,
+                        "max_profit": 1700.9999999999995,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45713.4
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43854,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45800,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745800PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 329.05,
+                                    "greeks": {
+                                        "theta": -83.72397522325582,
+                                        "delta": -0.5169214430248711,
+                                        "gamma": 0.00047469748975908707,
+                                        "vega": 13.49577184339326,
+                                        "iv": 24.798400059808046
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 42987,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45500,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745500PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 203.25,
+                                    "greeks": {
+                                        "theta": -74.76767580371065,
+                                        "delta": -0.36933801906106145,
+                                        "gamma": 0.00047643148611176166,
+                                        "vega": 12.7767826692903,
+                                        "iv": 23.391815077047795
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 1887.0000000000002,
+                        "max_profit": 2613,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45674.2
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43854,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45800,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745800PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 329.05,
+                                    "greeks": {
+                                        "theta": -83.72397522325582,
+                                        "delta": -0.5169214430248711,
+                                        "gamma": 0.00047469748975908707,
+                                        "vega": 13.49577184339326,
+                                        "iv": 24.798400059808046
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 42980,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45400,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745400PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 194.95,
+                                    "greeks": {
+                                        "theta": -79.07655935620863,
+                                        "delta": -0.3362459639520421,
+                                        "gamma": 0.0004211064958980779,
+                                        "vega": 12.353334250955324,
+                                        "iv": 25.587928073946387
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 2011.5000000000005,
+                        "max_profit": 3988.4999999999995,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45665.9
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43854,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45800,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745800PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 329.05,
+                                    "greeks": {
+                                        "theta": -83.72397522325582,
+                                        "delta": -0.5169214430248711,
+                                        "gamma": 0.00047469748975908707,
+                                        "vega": 13.49577184339326,
+                                        "iv": 24.798400059808046
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 41891,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45300,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745300PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 143,
+                                    "greeks": {
+                                        "theta": -68.34802784555716,
+                                        "delta": -0.2821681223774385,
+                                        "gamma": 0.0004178568684272476,
+                                        "vega": 11.440397282941609,
+                                        "iv": 23.88121566036716
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 2790.75,
+                        "max_profit": 4709.25,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45613.95
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43854,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45800,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745800PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 329.05,
+                                    "greeks": {
+                                        "theta": -83.72397522325582,
+                                        "delta": -0.5169214430248711,
+                                        "gamma": 0.00047469748975908707,
+                                        "vega": 13.49577184339326,
+                                        "iv": 24.798400059808046
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 41884,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45200,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745200PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 119.5,
+                                    "greeks": {
+                                        "theta": -64.29196957549576,
+                                        "delta": -0.2442064495211792,
+                                        "gamma": 0.0003831964447753271,
+                                        "vega": 10.625599453362401,
+                                        "iv": 24.18660093098879
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 3143.25,
+                        "max_profit": 5856.75,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45590.45
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43854,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45800,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745800PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 329.05,
+                                    "greeks": {
+                                        "theta": -83.72397522325582,
+                                        "delta": -0.5169214430248711,
+                                        "gamma": 0.00047469748975908707,
+                                        "vega": 13.49577184339326,
+                                        "iv": 24.798400059808046
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 41180,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45100,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745100PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 102.6,
+                                    "greeks": {
+                                        "theta": -61.08653662667278,
+                                        "delta": -0.21295115526007663,
+                                        "gamma": 0.00034575844808298607,
+                                        "vega": 9.838377700736778,
+                                        "iv": 24.81953043024987
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 3396.7500000000005,
+                        "max_profit": 7103.249999999999,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45573.55
+                        ]
+                    }
+                ]
+            },
+            {
+                "strategy_name": "Long Straddle",
+                "trading_opportunities": [
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43854,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45800,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745800PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 329.05,
+                                    "greeks": {
+                                        "theta": -83.72397522325582,
+                                        "delta": -0.5169214430248711,
+                                        "gamma": 0.00047469748975908707,
+                                        "vega": 13.49577184339326,
+                                        "iv": 24.798400059808046
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43853,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45800,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745800CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 313.9,
+                                    "greeks": {
+                                        "theta": -83.72397522325582,
+                                        "delta": 0.4830785569751289,
+                                        "gamma": 0.00047469748975908707,
+                                        "vega": 13.49577184339326,
+                                        "iv": 24.798400059808046
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 9644.25,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45157.05,
+                            46442.95
+                        ]
+                    }
+                ]
+            },
+            {
+                "strategy_name": "Long Strangle",
+                "trading_opportunities": [
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43852,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45700,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745700PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 284.7,
+                                    "greeks": {
+                                        "theta": -77.89743262598905,
+                                        "delta": -0.46774316820339285,
+                                        "gamma": 0.0005077851049905488,
+                                        "vega": 13.463745401984966,
+                                        "iv": 23.127506021410227
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43857,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45900,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745900CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 225,
+                                    "greeks": {
+                                        "theta": -71.42363883753528,
+                                        "delta": 0.4252382477729244,
+                                        "gamma": 0.0005379890458170417,
+                                        "vega": 13.270034209750762,
+                                        "iv": 21.515006374102086
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 7645.5,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45190.3,
+                            46409.7
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43852,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45700,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745700PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 284.7,
+                                    "greeks": {
+                                        "theta": -77.89743262598905,
+                                        "delta": -0.46774316820339285,
+                                        "gamma": 0.0005077851049905488,
+                                        "vega": 13.463745401984966,
+                                        "iv": 23.127506021410227
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43859,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46000,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746000CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 227.45,
+                                    "greeks": {
+                                        "theta": -80.39926395851695,
+                                        "delta": 0.3895475587119388,
+                                        "gamma": 0.00045774803632163175,
+                                        "vega": 12.986843921523898,
+                                        "iv": 24.746854265686125
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 7682.25,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45187.85,
+                            46512.15
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43852,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45700,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745700PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 284.7,
+                                    "greeks": {
+                                        "theta": -77.89743262598905,
+                                        "delta": -0.46774316820339285,
+                                        "gamma": 0.0005077851049905488,
+                                        "vega": 13.463745401984966,
+                                        "iv": 23.127506021410227
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43867,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46100,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746100CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 192.1,
+                                    "greeks": {
+                                        "theta": -77.41965440001685,
+                                        "delta": 0.3452494429074517,
+                                        "gamma": 0.00043887594559829436,
+                                        "vega": 12.478455741002849,
+                                        "iv": 24.800585524644703
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 7151.999999999999,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45223.2,
+                            46576.8
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43852,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45700,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745700PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 284.7,
+                                    "greeks": {
+                                        "theta": -77.89743262598905,
+                                        "delta": -0.46774316820339285,
+                                        "gamma": 0.0005077851049905488,
+                                        "vega": 13.463745401984966,
+                                        "iv": 23.127506021410227
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43869,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46200,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746200CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 160.2,
+                                    "greeks": {
+                                        "theta": -73.29625084436155,
+                                        "delta": 0.3027309196778798,
+                                        "gamma": 0.0004159883991226948,
+                                        "vega": 11.82077170326032,
+                                        "iv": 24.786059046164155
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 6673.5,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45255.1,
+                            46644.9
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43852,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45700,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745700PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 284.7,
+                                    "greeks": {
+                                        "theta": -77.89743262598905,
+                                        "delta": -0.46774316820339285,
+                                        "gamma": 0.0005077851049905488,
+                                        "vega": 13.463745401984966,
+                                        "iv": 23.127506021410227
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43883,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46300,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746300CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 109,
+                                    "greeks": {
+                                        "theta": -59.92090945286485,
+                                        "delta": 0.24284434423462875,
+                                        "gamma": 0.0004086726869209222,
+                                        "vega": 10.593545700432696,
+                                        "iv": 22.610418498516083
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 5905.5,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45306.3,
+                            46693.7
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43852,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45700,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745700PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 284.7,
+                                    "greeks": {
+                                        "theta": -77.89743262598905,
+                                        "delta": -0.46774316820339285,
+                                        "gamma": 0.0005077851049905488,
+                                        "vega": 13.463745401984966,
+                                        "iv": 23.127506021410227
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43886,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46400,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746400CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 107.55,
+                                    "greeks": {
+                                        "theta": -62.665609006876274,
+                                        "delta": 0.2249318985285887,
+                                        "gamma": 0.000358954445613324,
+                                        "vega": 10.15309945284632,
+                                        "iv": 24.67187598813325
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 5883.75,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45307.75,
+                            46792.25
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43852,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45700,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745700PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 284.7,
+                                    "greeks": {
+                                        "theta": -77.89743262598905,
+                                        "delta": -0.46774316820339285,
+                                        "gamma": 0.0005077851049905488,
+                                        "vega": 13.463745401984966,
+                                        "iv": 23.127506021410227
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43888,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46500,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746500CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 89,
+                                    "greeks": {
+                                        "theta": -57.684375234032046,
+                                        "delta": 0.19298961734215003,
+                                        "gamma": 0.0003255271110171984,
+                                        "vega": 9.276561290805194,
+                                        "iv": 24.85665725544095
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 5605.5,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45326.3,
+                            46873.7
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43850,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45600,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745600PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 242.45,
+                                    "greeks": {
+                                        "theta": -77.15966447011786,
+                                        "delta": -0.4178941321001028,
+                                        "gamma": 0.0004943085418469367,
+                                        "vega": 13.220825181471941,
+                                        "iv": 23.329386429395527
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43857,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45900,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745900CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 225,
+                                    "greeks": {
+                                        "theta": -71.42363883753528,
+                                        "delta": 0.4252382477729244,
+                                        "gamma": 0.0005379890458170417,
+                                        "vega": 13.270034209750762,
+                                        "iv": 21.515006374102086
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 7011.75,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45132.55,
+                            46367.45
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43850,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45600,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745600PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 242.45,
+                                    "greeks": {
+                                        "theta": -77.15966447011786,
+                                        "delta": -0.4178941321001028,
+                                        "gamma": 0.0004943085418469367,
+                                        "vega": 13.220825181471941,
+                                        "iv": 23.329386429395527
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43859,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46000,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746000CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 227.45,
+                                    "greeks": {
+                                        "theta": -80.39926395851695,
+                                        "delta": 0.3895475587119388,
+                                        "gamma": 0.00045774803632163175,
+                                        "vega": 12.986843921523898,
+                                        "iv": 24.746854265686125
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 7048.5,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45130.1,
+                            46469.9
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43850,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45600,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745600PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 242.45,
+                                    "greeks": {
+                                        "theta": -77.15966447011786,
+                                        "delta": -0.4178941321001028,
+                                        "gamma": 0.0004943085418469367,
+                                        "vega": 13.220825181471941,
+                                        "iv": 23.329386429395527
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43867,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46100,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746100CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 192.1,
+                                    "greeks": {
+                                        "theta": -77.41965440001685,
+                                        "delta": 0.3452494429074517,
+                                        "gamma": 0.00043887594559829436,
+                                        "vega": 12.478455741002849,
+                                        "iv": 24.800585524644703
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 6518.249999999999,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45165.45,
+                            46534.55
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43850,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45600,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745600PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 242.45,
+                                    "greeks": {
+                                        "theta": -77.15966447011786,
+                                        "delta": -0.4178941321001028,
+                                        "gamma": 0.0004943085418469367,
+                                        "vega": 13.220825181471941,
+                                        "iv": 23.329386429395527
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43869,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46200,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746200CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 160.2,
+                                    "greeks": {
+                                        "theta": -73.29625084436155,
+                                        "delta": 0.3027309196778798,
+                                        "gamma": 0.0004159883991226948,
+                                        "vega": 11.82077170326032,
+                                        "iv": 24.786059046164155
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 6039.75,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45197.35,
+                            46602.65
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43850,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45600,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745600PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 242.45,
+                                    "greeks": {
+                                        "theta": -77.15966447011786,
+                                        "delta": -0.4178941321001028,
+                                        "gamma": 0.0004943085418469367,
+                                        "vega": 13.220825181471941,
+                                        "iv": 23.329386429395527
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43883,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46300,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746300CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 109,
+                                    "greeks": {
+                                        "theta": -59.92090945286485,
+                                        "delta": 0.24284434423462875,
+                                        "gamma": 0.0004086726869209222,
+                                        "vega": 10.593545700432696,
+                                        "iv": 22.610418498516083
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 5271.75,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45248.55,
+                            46651.45
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43850,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45600,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745600PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 242.45,
+                                    "greeks": {
+                                        "theta": -77.15966447011786,
+                                        "delta": -0.4178941321001028,
+                                        "gamma": 0.0004943085418469367,
+                                        "vega": 13.220825181471941,
+                                        "iv": 23.329386429395527
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43886,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46400,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746400CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 107.55,
+                                    "greeks": {
+                                        "theta": -62.665609006876274,
+                                        "delta": 0.2249318985285887,
+                                        "gamma": 0.000358954445613324,
+                                        "vega": 10.15309945284632,
+                                        "iv": 24.67187598813325
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 5250,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45250,
+                            46750
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 43850,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45600,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745600PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 242.45,
+                                    "greeks": {
+                                        "theta": -77.15966447011786,
+                                        "delta": -0.4178941321001028,
+                                        "gamma": 0.0004943085418469367,
+                                        "vega": 13.220825181471941,
+                                        "iv": 23.329386429395527
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43888,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46500,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746500CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 89,
+                                    "greeks": {
+                                        "theta": -57.684375234032046,
+                                        "delta": 0.19298961734215003,
+                                        "gamma": 0.0003255271110171984,
+                                        "vega": 9.276561290805194,
+                                        "iv": 24.85665725544095
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 4971.75,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45268.55,
+                            46831.45
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 42987,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45500,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745500PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 203.25,
+                                    "greeks": {
+                                        "theta": -74.76767580371065,
+                                        "delta": -0.36933801906106145,
+                                        "gamma": 0.00047643148611176166,
+                                        "vega": 12.7767826692903,
+                                        "iv": 23.391815077047795
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43857,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45900,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745900CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 225,
+                                    "greeks": {
+                                        "theta": -71.42363883753528,
+                                        "delta": 0.4252382477729244,
+                                        "gamma": 0.0005379890458170417,
+                                        "vega": 13.270034209750762,
+                                        "iv": 21.515006374102086
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 6423.75,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45071.75,
+                            46328.25
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 42987,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45500,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745500PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 203.25,
+                                    "greeks": {
+                                        "theta": -74.76767580371065,
+                                        "delta": -0.36933801906106145,
+                                        "gamma": 0.00047643148611176166,
+                                        "vega": 12.7767826692903,
+                                        "iv": 23.391815077047795
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43859,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46000,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746000CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 227.45,
+                                    "greeks": {
+                                        "theta": -80.39926395851695,
+                                        "delta": 0.3895475587119388,
+                                        "gamma": 0.00045774803632163175,
+                                        "vega": 12.986843921523898,
+                                        "iv": 24.746854265686125
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 6460.5,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45069.3,
+                            46430.7
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 42987,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45500,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745500PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 203.25,
+                                    "greeks": {
+                                        "theta": -74.76767580371065,
+                                        "delta": -0.36933801906106145,
+                                        "gamma": 0.00047643148611176166,
+                                        "vega": 12.7767826692903,
+                                        "iv": 23.391815077047795
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43867,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46100,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746100CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 192.1,
+                                    "greeks": {
+                                        "theta": -77.41965440001685,
+                                        "delta": 0.3452494429074517,
+                                        "gamma": 0.00043887594559829436,
+                                        "vega": 12.478455741002849,
+                                        "iv": 24.800585524644703
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 5930.25,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45104.65,
+                            46495.35
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 42987,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45500,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745500PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 203.25,
+                                    "greeks": {
+                                        "theta": -74.76767580371065,
+                                        "delta": -0.36933801906106145,
+                                        "gamma": 0.00047643148611176166,
+                                        "vega": 12.7767826692903,
+                                        "iv": 23.391815077047795
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43869,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46200,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746200CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 160.2,
+                                    "greeks": {
+                                        "theta": -73.29625084436155,
+                                        "delta": 0.3027309196778798,
+                                        "gamma": 0.0004159883991226948,
+                                        "vega": 11.82077170326032,
+                                        "iv": 24.786059046164155
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 5451.75,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45136.55,
+                            46563.45
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 42987,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45500,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745500PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 203.25,
+                                    "greeks": {
+                                        "theta": -74.76767580371065,
+                                        "delta": -0.36933801906106145,
+                                        "gamma": 0.00047643148611176166,
+                                        "vega": 12.7767826692903,
+                                        "iv": 23.391815077047795
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43883,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46300,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746300CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 109,
+                                    "greeks": {
+                                        "theta": -59.92090945286485,
+                                        "delta": 0.24284434423462875,
+                                        "gamma": 0.0004086726869209222,
+                                        "vega": 10.593545700432696,
+                                        "iv": 22.610418498516083
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 4683.75,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45187.75,
+                            46612.25
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 42987,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45500,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745500PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 203.25,
+                                    "greeks": {
+                                        "theta": -74.76767580371065,
+                                        "delta": -0.36933801906106145,
+                                        "gamma": 0.00047643148611176166,
+                                        "vega": 12.7767826692903,
+                                        "iv": 23.391815077047795
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43886,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46400,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746400CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 107.55,
+                                    "greeks": {
+                                        "theta": -62.665609006876274,
+                                        "delta": 0.2249318985285887,
+                                        "gamma": 0.000358954445613324,
+                                        "vega": 10.15309945284632,
+                                        "iv": 24.67187598813325
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 4662,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45189.2,
+                            46710.8
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 42987,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45500,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745500PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 203.25,
+                                    "greeks": {
+                                        "theta": -74.76767580371065,
+                                        "delta": -0.36933801906106145,
+                                        "gamma": 0.00047643148611176166,
+                                        "vega": 12.7767826692903,
+                                        "iv": 23.391815077047795
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43888,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46500,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746500CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 89,
+                                    "greeks": {
+                                        "theta": -57.684375234032046,
+                                        "delta": 0.19298961734215003,
+                                        "gamma": 0.0003255271110171984,
+                                        "vega": 9.276561290805194,
+                                        "iv": 24.85665725544095
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 4383.75,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45207.75,
+                            46792.25
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 42980,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45400,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745400PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 194.95,
+                                    "greeks": {
+                                        "theta": -79.07655935620863,
+                                        "delta": -0.3362459639520421,
+                                        "gamma": 0.0004211064958980779,
+                                        "vega": 12.353334250955324,
+                                        "iv": 25.587928073946387
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43867,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46100,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746100CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 192.1,
+                                    "greeks": {
+                                        "theta": -77.41965440001685,
+                                        "delta": 0.3452494429074517,
+                                        "gamma": 0.00043887594559829436,
+                                        "vega": 12.478455741002849,
+                                        "iv": 24.800585524644703
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 5805.749999999999,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45012.95,
+                            46487.05
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 42980,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45400,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745400PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 194.95,
+                                    "greeks": {
+                                        "theta": -79.07655935620863,
+                                        "delta": -0.3362459639520421,
+                                        "gamma": 0.0004211064958980779,
+                                        "vega": 12.353334250955324,
+                                        "iv": 25.587928073946387
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43869,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46200,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746200CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 160.2,
+                                    "greeks": {
+                                        "theta": -73.29625084436155,
+                                        "delta": 0.3027309196778798,
+                                        "gamma": 0.0004159883991226948,
+                                        "vega": 11.82077170326032,
+                                        "iv": 24.786059046164155
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 5327.25,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45044.85,
+                            46555.15
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 42980,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45400,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745400PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 194.95,
+                                    "greeks": {
+                                        "theta": -79.07655935620863,
+                                        "delta": -0.3362459639520421,
+                                        "gamma": 0.0004211064958980779,
+                                        "vega": 12.353334250955324,
+                                        "iv": 25.587928073946387
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43883,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46300,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746300CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 109,
+                                    "greeks": {
+                                        "theta": -59.92090945286485,
+                                        "delta": 0.24284434423462875,
+                                        "gamma": 0.0004086726869209222,
+                                        "vega": 10.593545700432696,
+                                        "iv": 22.610418498516083
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 4559.25,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45096.05,
+                            46603.95
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 42980,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45400,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745400PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 194.95,
+                                    "greeks": {
+                                        "theta": -79.07655935620863,
+                                        "delta": -0.3362459639520421,
+                                        "gamma": 0.0004211064958980779,
+                                        "vega": 12.353334250955324,
+                                        "iv": 25.587928073946387
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43886,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46400,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746400CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 107.55,
+                                    "greeks": {
+                                        "theta": -62.665609006876274,
+                                        "delta": 0.2249318985285887,
+                                        "gamma": 0.000358954445613324,
+                                        "vega": 10.15309945284632,
+                                        "iv": 24.67187598813325
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 4537.5,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45097.5,
+                            46702.5
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 42980,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45400,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745400PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 194.95,
+                                    "greeks": {
+                                        "theta": -79.07655935620863,
+                                        "delta": -0.3362459639520421,
+                                        "gamma": 0.0004211064958980779,
+                                        "vega": 12.353334250955324,
+                                        "iv": 25.587928073946387
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43888,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46500,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746500CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 89,
+                                    "greeks": {
+                                        "theta": -57.684375234032046,
+                                        "delta": 0.19298961734215003,
+                                        "gamma": 0.0003255271110171984,
+                                        "vega": 9.276561290805194,
+                                        "iv": 24.85665725544095
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 4259.25,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45116.05,
+                            46783.95
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 41891,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45300,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745300PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 143,
+                                    "greeks": {
+                                        "theta": -68.34802784555716,
+                                        "delta": -0.2821681223774385,
+                                        "gamma": 0.0004178568684272476,
+                                        "vega": 11.440397282941609,
+                                        "iv": 23.88121566036716
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43883,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46300,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746300CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 109,
+                                    "greeks": {
+                                        "theta": -59.92090945286485,
+                                        "delta": 0.24284434423462875,
+                                        "gamma": 0.0004086726869209222,
+                                        "vega": 10.593545700432696,
+                                        "iv": 22.610418498516083
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 3780,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45048,
+                            46552
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 41891,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45300,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745300PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 143,
+                                    "greeks": {
+                                        "theta": -68.34802784555716,
+                                        "delta": -0.2821681223774385,
+                                        "gamma": 0.0004178568684272476,
+                                        "vega": 11.440397282941609,
+                                        "iv": 23.88121566036716
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43886,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46400,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746400CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 107.55,
+                                    "greeks": {
+                                        "theta": -62.665609006876274,
+                                        "delta": 0.2249318985285887,
+                                        "gamma": 0.000358954445613324,
+                                        "vega": 10.15309945284632,
+                                        "iv": 24.67187598813325
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 3758.25,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45049.45,
+                            46650.55
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 41891,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 45300,
+                                    "option_type": "PE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420745300PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 143,
+                                    "greeks": {
+                                        "theta": -68.34802784555716,
+                                        "delta": -0.2821681223774385,
+                                        "gamma": 0.0004178568684272476,
+                                        "vega": 11.440397282941609,
+                                        "iv": 23.88121566036716
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            },
+                            {
+                                "option": {
+                                    "token": 43888,
+                                    "instrument_name": "OPTIDX",
+                                    "symbol": "BANKNIFTY",
+                                    "strike_price": 46500,
+                                    "option_type": "CE",
+                                    "lot_size": 15,
+                                    "security_description": "BANKNIFTY2420746500CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240207",
+                                    "ltp": 89,
+                                    "greeks": {
+                                        "theta": -57.684375234032046,
+                                        "delta": 0.19298961734215003,
+                                        "gamma": 0.0003255271110171984,
+                                        "vega": 9.276561290805194,
+                                        "iv": 24.85665725544095
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 15
+                            }
+                        ],
+                        "max_loss": 3480,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            45068,
+                            46732
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "message": "We found 4 trades for your prediction of BANKNIFTY on 20240207",
+    "status": "success"
+}

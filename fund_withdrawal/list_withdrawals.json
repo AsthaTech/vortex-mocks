@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "message": "Success message",
+    "data": [
+        {
+            "transaction_id": "24020165000001473",
+            "amount": 300,
+            "created_at": "2024-02-01T16:00:18.283+05:30",
+            "status": "PENDING",
+            "exchange": "NSE_EQ"
+        }
+    ]
+}

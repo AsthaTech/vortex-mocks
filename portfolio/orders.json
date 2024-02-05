@@ -1,0 +1,90 @@
+{
+    "status": "success",
+    "orders": [
+        {
+            "order_id": "NXAAE0003A52",
+            "exchange": "MCX_FO",
+            "token": 425547,
+            "order_number": "403610324161465",
+            "status": "EXECUTED",
+            "error_reason": "",
+            "transaction_type": "BUY",
+            "product": "DELIVERY",
+            "variety": "RL-MKT",
+            "total_quantity": 1,
+            "pending_quantity": 0,
+            "traded_quantity": 1,
+            "disclosed_quantity": 0,
+            "disclosed_quantity_remaining": 0,
+            "order_price": 6117,
+            "trigger_price": 0,
+            "validity": "DAY",
+            "symbol": "GOLDPETAL",
+            "series": "XX",
+            "instrument_name": "FUTCOM",
+            "expiry_date": "2024-02-29",
+            "strike_price": -1,
+            "option_type": "XX",
+            "lot_size": 1,
+            "order_created_at": "2024-02-05 18:11:44",
+            "initiated_by": "MOBILE-Ex",
+            "modified_by": "MOBILE-Ex",
+            "is_amo": false,
+            "order_identifier": "YT",
+            "tags_ids": [
+                1,
+                2,
+                3
+            ],
+            "middleware_order_id": 180
+        },
+        {
+            "order_id": "NXAAE0003D52",
+            "exchange": "MCX_FO",
+            "token": 425547,
+            "order_number": "403610324437160",
+            "status": "PENDING",
+            "error_reason": "",
+            "transaction_type": "BUY",
+            "product": "INTRADAY",
+            "variety": "RL",
+            "total_quantity": 1,
+            "pending_quantity": 1,
+            "traded_quantity": 0,
+            "disclosed_quantity": 0,
+            "disclosed_quantity_remaining": 0,
+            "order_price": 6001,
+            "trigger_price": 0,
+            "validity": "DAY",
+            "symbol": "GOLDPETAL",
+            "series": "XX",
+            "instrument_name": "FUTCOM",
+            "expiry_date": "2024-02-29",
+            "strike_price": -1,
+            "option_type": "XX",
+            "lot_size": 1,
+            "order_created_at": "2024-02-05 22:30:48",
+            "initiated_by": "MOBILE-Ex",
+            "modified_by": "MOBILE-Ex",
+            "is_amo": false,
+            "order_identifier": "YT",
+            "tags_ids": [
+                1,
+                2,
+                3
+            ],
+            "middleware_order_id": 189,
+            "iceberg": {
+                "iceberg_order_id": "8479c3e9-fea4-4525-9a5c-1f9528ea1d9b",
+                "iceberg_sequence": 1,
+                "legs": 2
+            }
+        }
+    ],
+    "metadata": {
+        "total_records": 2,
+        "all_records": 2,
+        "completed_records": 1,
+        "open_records": 1
+    }
+}

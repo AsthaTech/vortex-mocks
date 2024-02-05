@@ -1,0 +1,358 @@
+{
+    "data": {
+        "max_loss": -2985.0000000000014,
+        "max_profit": 4515.000000000005,
+        "infinite_profit": false,
+        "infinite_loss": false,
+        "breakevens": [
+            21812.5
+        ],
+        "payoffs": [
+            {
+                "intraday_pay_off": -2921.4636000000005,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21050
+            },
+            {
+                "intraday_pay_off": -2907.0267,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21075
+            },
+            {
+                "intraday_pay_off": -2889.8347500000004,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21100
+            },
+            {
+                "intraday_pay_off": -2869.4849000000004,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21125
+            },
+            {
+                "intraday_pay_off": -2845.541,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21150
+            },
+            {
+                "intraday_pay_off": -2817.5363000000016,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21175
+            },
+            {
+                "intraday_pay_off": -2784.976300000001,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21200
+            },
+            {
+                "intraday_pay_off": -2747.3437000000004,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21225
+            },
+            {
+                "intraday_pay_off": -2704.1044,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21250
+            },
+            {
+                "intraday_pay_off": -2654.714300000001,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21275
+            },
+            {
+                "intraday_pay_off": -2598.6279500000014,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21300
+            },
+            {
+                "intraday_pay_off": -2535.308050000001,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21325
+            },
+            {
+                "intraday_pay_off": -2464.235950000001,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21350
+            },
+            {
+                "intraday_pay_off": -2384.9230500000012,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21375
+            },
+            {
+                "intraday_pay_off": -2296.92265,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21400
+            },
+            {
+                "intraday_pay_off": -2199.8425000000007,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21425
+            },
+            {
+                "intraday_pay_off": -2093.356750000001,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21450
+            },
+            {
+                "intraday_pay_off": -1977.2178000000006,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21475
+            },
+            {
+                "intraday_pay_off": -1851.2676000000001,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21500
+            },
+            {
+                "intraday_pay_off": -1715.4474000000007,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21525
+            },
+            {
+                "intraday_pay_off": -1569.8063500000005,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21550
+            },
+            {
+                "intraday_pay_off": -1414.5078500000004,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21575
+            },
+            {
+                "intraday_pay_off": -1249.834350000001,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21600
+            },
+            {
+                "intraday_pay_off": -1076.1890000000012,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21625
+            },
+            {
+                "intraday_pay_off": -894.0953000000013,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21650
+            },
+            {
+                "intraday_pay_off": -704.1938000000009,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21675
+            },
+            {
+                "intraday_pay_off": -507.23595000000074,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21700
+            },
+            {
+                "intraday_pay_off": -304.0756500000015,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21725
+            },
+            {
+                "intraday_pay_off": -95.65805000000012,
+                "expiry_pay_off": -2985.0000000000014,
+                "at": 21750
+            },
+            {
+                "intraday_pay_off": 116.99379999999877,
+                "expiry_pay_off": -1735.0000000000011,
+                "at": 21775
+            },
+            {
+                "intraday_pay_off": 332.7944999999993,
+                "expiry_pay_off": -485.0000000000012,
+                "at": 21800
+            },
+            {
+                "intraday_pay_off": 550.612749999999,
+                "expiry_pay_off": 764.9999999999993,
+                "at": 21825
+            },
+            {
+                "intraday_pay_off": 769.2895999999998,
+                "expiry_pay_off": 2014.9999999999993,
+                "at": 21850
+            },
+            {
+                "intraday_pay_off": 987.6569999999992,
+                "expiry_pay_off": 3264.999999999999,
+                "at": 21875
+            },
+            {
+                "intraday_pay_off": 1204.5563000000002,
+                "expiry_pay_off": 4514.999999999999,
+                "at": 21900
+            },
+            {
+                "intraday_pay_off": 1418.8567499999988,
+                "expiry_pay_off": 4514.999999999999,
+                "at": 21925
+            },
+            {
+                "intraday_pay_off": 1629.47295,
+                "expiry_pay_off": 4514.999999999999,
+                "at": 21950
+            },
+            {
+                "intraday_pay_off": 1835.3808500000002,
+                "expiry_pay_off": 4514.999999999999,
+                "at": 21975
+            },
+            {
+                "intraday_pay_off": 2035.6324999999997,
+                "expiry_pay_off": 4514.999999999999,
+                "at": 22000
+            },
+            {
+                "intraday_pay_off": 2229.3681499999993,
+                "expiry_pay_off": 4514.999999999999,
+                "at": 22025
+            },
+            {
+                "intraday_pay_off": 2415.8269499999983,
+                "expiry_pay_off": 4514.999999999999,
+                "at": 22050
+            },
+            {
+                "intraday_pay_off": 2594.3541499999983,
+                "expiry_pay_off": 4515,
+                "at": 22075
+            },
+            {
+                "intraday_pay_off": 2764.4068499999985,
+                "expiry_pay_off": 4515,
+                "at": 22100
+            },
+            {
+                "intraday_pay_off": 2925.556099999999,
+                "expiry_pay_off": 4515,
+                "at": 22125
+            },
+            {
+                "intraday_pay_off": 3077.487799999998,
+                "expiry_pay_off": 4515,
+                "at": 22150
+            },
+            {
+                "intraday_pay_off": 3219.999899999997,
+                "expiry_pay_off": 4515,
+                "at": 22175
+            },
+            {
+                "intraday_pay_off": 3352.9986500000014,
+                "expiry_pay_off": 4515,
+                "at": 22200
+            },
+            {
+                "intraday_pay_off": 3476.492149999999,
+                "expiry_pay_off": 4515,
+                "at": 22225
+            },
+            {
+                "intraday_pay_off": 3590.5828999999976,
+                "expiry_pay_off": 4515.000000000001,
+                "at": 22250
+            },
+            {
+                "intraday_pay_off": 3695.4585499999976,
+                "expiry_pay_off": 4515.000000000001,
+                "at": 22275
+            },
+            {
+                "intraday_pay_off": 3791.382200000001,
+                "expiry_pay_off": 4515.000000000001,
+                "at": 22300
+            },
+            {
+                "intraday_pay_off": 3878.6816999999955,
+                "expiry_pay_off": 4515.000000000001,
+                "at": 22325
+            },
+            {
+                "intraday_pay_off": 3957.738849999997,
+                "expiry_pay_off": 4515.000000000001,
+                "at": 22350
+            },
+            {
+                "intraday_pay_off": 4028.9786500000027,
+                "expiry_pay_off": 4515.000000000001,
+                "at": 22375
+            },
+            {
+                "intraday_pay_off": 4092.8586499999974,
+                "expiry_pay_off": 4515.000000000001,
+                "at": 22400
+            },
+            {
+                "intraday_pay_off": 4149.85865,
+                "expiry_pay_off": 4515.000000000005,
+                "at": 22425
+            },
+            {
+                "intraday_pay_off": 4200.471750000004,
+                "expiry_pay_off": 4515.000000000005,
+                "at": 22450
+            },
+            {
+                "intraday_pay_off": 4245.195150000007,
+                "expiry_pay_off": 4515.000000000005,
+                "at": 22475
+            },
+            {
+                "intraday_pay_off": 4284.5229999999965,
+                "expiry_pay_off": 4515.000000000005,
+                "at": 22500
+            }
+        ],
+        "combined_greeks": {
+            "theta": -1.0396732047898034,
+            "delta": 8.500728369301886,
+            "gamma": 0.006008037875138518,
+            "vega": 0.5826559969509431,
+            "iv": 0
+        },
+        "last_trade_price": 21761.3,
+        "leg_greeks": [
+            {
+                "token": 44235,
+                "strike_price": 21750,
+                "option_type": "CE",
+                "expiry_date": "20240208",
+                "action": "BUY",
+                "lot_size": 50,
+                "quantity": 50,
+                "last_trade_price": 138.8,
+                "iv": 16.917813336476684,
+                "greeks": {
+                    "theta": -22.18051126667666,
+                    "delta": 25.82841024828989,
+                    "gamma": 0.059731894175017175,
+                    "vega": 7.861223283239558,
+                    "iv": 0.16917813336476684
+                }
+            },
+            {
+                "token": 44821,
+                "strike_price": 21900,
+                "option_type": "CE",
+                "expiry_date": "20240208",
+                "action": "SELL",
+                "lot_size": 50,
+                "quantity": 50,
+                "last_trade_price": 79.1,
+                "iv": 17.415626673027873,
+                "greeks": {
+                    "theta": -21.140838061886857,
+                    "delta": 17.327681878988006,
+                    "gamma": 0.05372385629987866,
+                    "vega": 7.278567286288615,
+                    "iv": 0.17415626673027873
+                }
+            }
+        ],
+        "min_days_to_expiry": 3,
+        "stockType": ""
+    },
+    "message": "",
+    "status": "success"
+}

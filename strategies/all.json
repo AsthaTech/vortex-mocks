@@ -1,0 +1,3059 @@
+{
+    "data": {
+        "symbol": "RELIANCE",
+        "token": 2885,
+        "ltp": 2889.15,
+        "strategies": [
+            {
+                "strategy_name": "Bull Call Spread",
+                "trading_opportunities": [
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170813,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 65.3,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": 0.534008394000324,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170827,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2900,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2900CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 55.9,
+                                    "greeks": {
+                                        "theta": -1.2717756084969203,
+                                        "delta": 0.48234781666855164,
+                                        "gamma": 0.002603790341283943,
+                                        "vega": 2.9516829510742046,
+                                        "iv": 20.667768083512783
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 2349.9999999999995,
+                        "max_profit": 2650.0000000000005,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2889.4
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170813,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 65.3,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": 0.534008394000324,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170829,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2920,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2920CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 47.95,
+                                    "greeks": {
+                                        "theta": -1.2704150059896198,
+                                        "delta": 0.4320553187018246,
+                                        "gamma": 0.0025363030158095205,
+                                        "vega": 2.9116209247275697,
+                                        "iv": 20.9297277033329
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 4337.499999999998,
+                        "max_profit": 5662.500000000002,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2897.35
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170813,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 65.3,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": 0.534008394000324,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170831,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2940,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2940CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 40,
+                                    "greeks": {
+                                        "theta": -1.2279906167224646,
+                                        "delta": 0.3822109125331409,
+                                        "gamma": 0.0024698428400427423,
+                                        "vega": 2.824838600629233,
+                                        "iv": 20.85231151431799
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 6324.999999999999,
+                        "max_profit": 8675,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2905.3
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170813,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 65.3,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": 0.534008394000324,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170833,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2960,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2960CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 35,
+                                    "greeks": {
+                                        "theta": -1.216981148139281,
+                                        "delta": 0.3402140209612238,
+                                        "gamma": 0.002300953609650804,
+                                        "vega": 2.7142966587477364,
+                                        "iv": 21.50697517208755
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 7574.999999999999,
+                        "max_profit": 12425,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2910.3
+                        ]
+                    }
+                ]
+            },
+            {
+                "strategy_name": "Bull Put Spread",
+                "trading_opportunities": [
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170812,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2860,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2860PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 47.4,
+                                    "greeks": {
+                                        "theta": -1.245672347717229,
+                                        "delta": -0.41387960221764675,
+                                        "gamma": 0.0025404124996406888,
+                                        "vega": 2.885462853198539,
+                                        "iv": 20.70814184844494
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170828,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2900,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2900PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 66.55,
+                                    "greeks": {
+                                        "theta": -1.2717756084969203,
+                                        "delta": -0.5176521833314484,
+                                        "gamma": 0.002603790341283943,
+                                        "vega": 2.9516829510742046,
+                                        "iv": 20.667768083512783
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 5212.5,
+                        "max_profit": 4787.5,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2880.85
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170812,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2860,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2860PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 47.4,
+                                    "greeks": {
+                                        "theta": -1.245672347717229,
+                                        "delta": -0.41387960221764675,
+                                        "gamma": 0.0025404124996406888,
+                                        "vega": 2.885462853198539,
+                                        "iv": 20.70814184844494
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170830,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2920,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2920PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 77.55,
+                                    "greeks": {
+                                        "theta": -1.2704150059896198,
+                                        "delta": -0.5679446812981754,
+                                        "gamma": 0.0025363030158095205,
+                                        "vega": 2.9116209247275697,
+                                        "iv": 20.9297277033329
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 7462.5,
+                        "max_profit": 7537.5,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2889.85
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170810,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2840,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2840PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 39.3,
+                                    "greeks": {
+                                        "theta": -1.201621824042042,
+                                        "delta": -0.3634044278540771,
+                                        "gamma": 0.0024439297400620633,
+                                        "vega": 2.7796474531770654,
+                                        "iv": 20.736281760036945
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170828,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2900,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2900PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 66.55,
+                                    "greeks": {
+                                        "theta": -1.2717756084969203,
+                                        "delta": -0.5176521833314484,
+                                        "gamma": 0.002603790341283943,
+                                        "vega": 2.9516829510742046,
+                                        "iv": 20.667768083512783
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 8187.5,
+                        "max_profit": 6812.5,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2872.75
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170810,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2840,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2840PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 39.3,
+                                    "greeks": {
+                                        "theta": -1.201621824042042,
+                                        "delta": -0.3634044278540771,
+                                        "gamma": 0.0024439297400620633,
+                                        "vega": 2.7796474531770654,
+                                        "iv": 20.736281760036945
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170830,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2920,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2920PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 77.55,
+                                    "greeks": {
+                                        "theta": -1.2704150059896198,
+                                        "delta": -0.5679446812981754,
+                                        "gamma": 0.0025363030158095205,
+                                        "vega": 2.9116209247275697,
+                                        "iv": 20.9297277033329
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 10437.5,
+                        "max_profit": 9562.5,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2881.75
+                        ]
+                    }
+                ]
+            },
+            {
+                "strategy_name": "Ratio Call Spread",
+                "trading_opportunities": [
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170813,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 65.3,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": 0.534008394000324,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170827,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2900,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2900CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 55.9,
+                                    "greeks": {
+                                        "theta": -1.2717756084969203,
+                                        "delta": 0.48234781666855164,
+                                        "gamma": 0.002603790341283943,
+                                        "vega": 2.9516829510742046,
+                                        "iv": 20.667768083512783
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 500
+                            }
+                        ],
+                        "max_loss": 0,
+                        "max_profit": 16625,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": true,
+                        "breakeven": [
+                            2966.5
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170813,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 65.3,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": 0.534008394000324,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170829,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2920,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2920CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 47.95,
+                                    "greeks": {
+                                        "theta": -1.2704150059896198,
+                                        "delta": 0.4320553187018246,
+                                        "gamma": 0.0025363030158095205,
+                                        "vega": 2.9116209247275697,
+                                        "iv": 20.9297277033329
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 500
+                            }
+                        ],
+                        "max_loss": 0,
+                        "max_profit": 17650.000000000004,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": true,
+                        "breakeven": [
+                            2990.6
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170813,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 65.3,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": 0.534008394000324,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170831,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2940,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2940CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 40,
+                                    "greeks": {
+                                        "theta": -1.2279906167224646,
+                                        "delta": 0.3822109125331409,
+                                        "gamma": 0.0024698428400427423,
+                                        "vega": 2.824838600629233,
+                                        "iv": 20.85231151431799
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 500
+                            }
+                        ],
+                        "max_loss": 0,
+                        "max_profit": 18675,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": true,
+                        "breakeven": [
+                            3014.7
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170813,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 65.3,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": 0.534008394000324,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170833,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2960,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2960CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 35,
+                                    "greeks": {
+                                        "theta": -1.216981148139281,
+                                        "delta": 0.3402140209612238,
+                                        "gamma": 0.002300953609650804,
+                                        "vega": 2.7142966587477364,
+                                        "iv": 21.50697517208755
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 500
+                            }
+                        ],
+                        "max_loss": 0,
+                        "max_profit": 21175,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": true,
+                        "breakeven": [
+                            3044.7
+                        ]
+                    }
+                ]
+            },
+            {
+                "strategy_name": "Ratio Put Spread",
+                "trading_opportunities": [
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170826,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 58.45,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": -0.46599160599967604,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170812,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2860,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2860PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 47.4,
+                                    "greeks": {
+                                        "theta": -1.245672347717229,
+                                        "delta": -0.41387960221764675,
+                                        "gamma": 0.0025404124996406888,
+                                        "vega": 2.885462853198539,
+                                        "iv": 20.70814184844494
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 500
+                            }
+                        ],
+                        "max_loss": 0,
+                        "max_profit": 14087.499999999998,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": true,
+                        "breakeven": [
+                            2803.65
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170826,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 58.45,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": -0.46599160599967604,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170810,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2840,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2840PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 39.3,
+                                    "greeks": {
+                                        "theta": -1.201621824042042,
+                                        "delta": -0.3634044278540771,
+                                        "gamma": 0.0024439297400620633,
+                                        "vega": 2.7796474531770654,
+                                        "iv": 20.736281760036945
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 500
+                            }
+                        ],
+                        "max_loss": 0,
+                        "max_profit": 15037.499999999998,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": true,
+                        "breakeven": [
+                            2779.85
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170826,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 58.45,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": -0.46599160599967604,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170808,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2820,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2820PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 32.65,
+                                    "greeks": {
+                                        "theta": -1.1500748075258929,
+                                        "delta": -0.3162279223095803,
+                                        "gamma": 0.00229508349179938,
+                                        "vega": 2.6352616687731723,
+                                        "iv": 20.934140775352716
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 500
+                            }
+                        ],
+                        "max_loss": 0,
+                        "max_profit": 16712.5,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": true,
+                        "breakeven": [
+                            2753.15
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170826,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 58.45,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": -0.46599160599967604,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170806,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2800,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2800PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 28,
+                                    "greeks": {
+                                        "theta": -1.1139658532817274,
+                                        "delta": -0.2761587473805872,
+                                        "gamma": 0.0020922354318724016,
+                                        "vega": 2.4762966540156643,
+                                        "iv": 21.578537300229073
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 500
+                            }
+                        ],
+                        "max_loss": 0,
+                        "max_profit": 19387.5,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": true,
+                        "breakeven": [
+                            2722.45
+                        ]
+                    }
+                ]
+            },
+            {
+                "strategy_name": "Bear Call Spread",
+                "trading_opportunities": [
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170827,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2900,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2900CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 55.9,
+                                    "greeks": {
+                                        "theta": -1.2717756084969203,
+                                        "delta": 0.48234781666855164,
+                                        "gamma": 0.002603790341283943,
+                                        "vega": 2.9516829510742046,
+                                        "iv": 20.667768083512783
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170813,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 65.3,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": 0.534008394000324,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 2650.0000000000005,
+                        "max_profit": 2349.9999999999995,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2889.4
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170829,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2920,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2920CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 47.95,
+                                    "greeks": {
+                                        "theta": -1.2704150059896198,
+                                        "delta": 0.4320553187018246,
+                                        "gamma": 0.0025363030158095205,
+                                        "vega": 2.9116209247275697,
+                                        "iv": 20.9297277033329
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170813,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 65.3,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": 0.534008394000324,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 5662.500000000002,
+                        "max_profit": 4337.499999999998,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2897.35
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170831,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2940,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2940CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 40,
+                                    "greeks": {
+                                        "theta": -1.2279906167224646,
+                                        "delta": 0.3822109125331409,
+                                        "gamma": 0.0024698428400427423,
+                                        "vega": 2.824838600629233,
+                                        "iv": 20.85231151431799
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170813,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 65.3,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": 0.534008394000324,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 8675,
+                        "max_profit": 6324.999999999999,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2905.3
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170833,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2960,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2960CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 35,
+                                    "greeks": {
+                                        "theta": -1.216981148139281,
+                                        "delta": 0.3402140209612238,
+                                        "gamma": 0.002300953609650804,
+                                        "vega": 2.7142966587477364,
+                                        "iv": 21.50697517208755
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170813,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 65.3,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": 0.534008394000324,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 12425,
+                        "max_profit": 7574.999999999999,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2910.3
+                        ]
+                    }
+                ]
+            },
+            {
+                "strategy_name": "Bear Put Spread",
+                "trading_opportunities": [
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170826,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 58.45,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": -0.46599160599967604,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170812,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2860,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2860PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 47.4,
+                                    "greeks": {
+                                        "theta": -1.245672347717229,
+                                        "delta": -0.41387960221764675,
+                                        "gamma": 0.0025404124996406888,
+                                        "vega": 2.885462853198539,
+                                        "iv": 20.70814184844494
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 2762.500000000001,
+                        "max_profit": 2237.499999999999,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2868.95
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170826,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 58.45,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": -0.46599160599967604,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170810,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2840,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2840PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 39.3,
+                                    "greeks": {
+                                        "theta": -1.201621824042042,
+                                        "delta": -0.3634044278540771,
+                                        "gamma": 0.0024439297400620633,
+                                        "vega": 2.7796474531770654,
+                                        "iv": 20.736281760036945
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 4787.500000000002,
+                        "max_profit": 5212.499999999998,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2860.85
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170826,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 58.45,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": -0.46599160599967604,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170808,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2820,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2820PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 32.65,
+                                    "greeks": {
+                                        "theta": -1.1500748075258929,
+                                        "delta": -0.3162279223095803,
+                                        "gamma": 0.00229508349179938,
+                                        "vega": 2.6352616687731723,
+                                        "iv": 20.934140775352716
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 6450.000000000001,
+                        "max_profit": 8549.999999999998,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2854.2
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170826,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 58.45,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": -0.46599160599967604,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170806,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2800,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2800PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 28,
+                                    "greeks": {
+                                        "theta": -1.1139658532817274,
+                                        "delta": -0.2761587473805872,
+                                        "gamma": 0.0020922354318724016,
+                                        "vega": 2.4762966540156643,
+                                        "iv": 21.578537300229073
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 7612.500000000001,
+                        "max_profit": 12387.5,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2849.55
+                        ]
+                    }
+                ]
+            },
+            {
+                "strategy_name": "Short Strangle",
+                "trading_opportunities": [
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170812,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2860,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2860PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 47.4,
+                                    "greeks": {
+                                        "theta": -1.245672347717229,
+                                        "delta": -0.41387960221764675,
+                                        "gamma": 0.0025404124996406888,
+                                        "vega": 2.885462853198539,
+                                        "iv": 20.70814184844494
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170827,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2900,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2900CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 55.9,
+                                    "greeks": {
+                                        "theta": -1.2717756084969203,
+                                        "delta": 0.48234781666855164,
+                                        "gamma": 0.002603790341283943,
+                                        "vega": 2.9516829510742046,
+                                        "iv": 20.667768083512783
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 0,
+                        "max_profit": 25825,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": true,
+                        "breakeven": [
+                            3003.3,
+                            2756.7
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170812,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2860,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2860PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 47.4,
+                                    "greeks": {
+                                        "theta": -1.245672347717229,
+                                        "delta": -0.41387960221764675,
+                                        "gamma": 0.0025404124996406888,
+                                        "vega": 2.885462853198539,
+                                        "iv": 20.70814184844494
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170829,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2920,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2920CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 47.95,
+                                    "greeks": {
+                                        "theta": -1.2704150059896198,
+                                        "delta": 0.4320553187018246,
+                                        "gamma": 0.0025363030158095205,
+                                        "vega": 2.9116209247275697,
+                                        "iv": 20.9297277033329
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 0,
+                        "max_profit": 23837.5,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": true,
+                        "breakeven": [
+                            3015.35,
+                            2764.65
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170810,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2840,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2840PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 39.3,
+                                    "greeks": {
+                                        "theta": -1.201621824042042,
+                                        "delta": -0.3634044278540771,
+                                        "gamma": 0.0024439297400620633,
+                                        "vega": 2.7796474531770654,
+                                        "iv": 20.736281760036945
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170827,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2900,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2900CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 55.9,
+                                    "greeks": {
+                                        "theta": -1.2717756084969203,
+                                        "delta": 0.48234781666855164,
+                                        "gamma": 0.002603790341283943,
+                                        "vega": 2.9516829510742046,
+                                        "iv": 20.667768083512783
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 0,
+                        "max_profit": 23799.999999999996,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": true,
+                        "breakeven": [
+                            2995.2,
+                            2744.8
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170810,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2840,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2840PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 39.3,
+                                    "greeks": {
+                                        "theta": -1.201621824042042,
+                                        "delta": -0.3634044278540771,
+                                        "gamma": 0.0024439297400620633,
+                                        "vega": 2.7796474531770654,
+                                        "iv": 20.736281760036945
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170829,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2920,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2920CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 47.95,
+                                    "greeks": {
+                                        "theta": -1.2704150059896198,
+                                        "delta": 0.4320553187018246,
+                                        "gamma": 0.0025363030158095205,
+                                        "vega": 2.9116209247275697,
+                                        "iv": 20.9297277033329
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 0,
+                        "max_profit": 21812.5,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": true,
+                        "breakeven": [
+                            3007.25,
+                            2752.75
+                        ]
+                    }
+                ]
+            },
+            {
+                "strategy_name": "Long Strangle",
+                "trading_opportunities": [
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170812,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2860,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2860PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 47.4,
+                                    "greeks": {
+                                        "theta": -1.245672347717229,
+                                        "delta": -0.41387960221764675,
+                                        "gamma": 0.0025404124996406888,
+                                        "vega": 2.885462853198539,
+                                        "iv": 20.70814184844494
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170827,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2900,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2900CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 55.9,
+                                    "greeks": {
+                                        "theta": -1.2717756084969203,
+                                        "delta": 0.48234781666855164,
+                                        "gamma": 0.002603790341283943,
+                                        "vega": 2.9516829510742046,
+                                        "iv": 20.667768083512783
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 25825,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2756.7,
+                            3003.3
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170812,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2860,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2860PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 47.4,
+                                    "greeks": {
+                                        "theta": -1.245672347717229,
+                                        "delta": -0.41387960221764675,
+                                        "gamma": 0.0025404124996406888,
+                                        "vega": 2.885462853198539,
+                                        "iv": 20.70814184844494
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170829,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2920,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2920CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 47.95,
+                                    "greeks": {
+                                        "theta": -1.2704150059896198,
+                                        "delta": 0.4320553187018246,
+                                        "gamma": 0.0025363030158095205,
+                                        "vega": 2.9116209247275697,
+                                        "iv": 20.9297277033329
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 23837.5,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2764.65,
+                            3015.35
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170810,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2840,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2840PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 39.3,
+                                    "greeks": {
+                                        "theta": -1.201621824042042,
+                                        "delta": -0.3634044278540771,
+                                        "gamma": 0.0024439297400620633,
+                                        "vega": 2.7796474531770654,
+                                        "iv": 20.736281760036945
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170827,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2900,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2900CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 55.9,
+                                    "greeks": {
+                                        "theta": -1.2717756084969203,
+                                        "delta": 0.48234781666855164,
+                                        "gamma": 0.002603790341283943,
+                                        "vega": 2.9516829510742046,
+                                        "iv": 20.667768083512783
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 23799.999999999996,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2744.8,
+                            2995.2
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170810,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2840,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2840PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 39.3,
+                                    "greeks": {
+                                        "theta": -1.201621824042042,
+                                        "delta": -0.3634044278540771,
+                                        "gamma": 0.0024439297400620633,
+                                        "vega": 2.7796474531770654,
+                                        "iv": 20.736281760036945
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170829,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2920,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2920CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 47.95,
+                                    "greeks": {
+                                        "theta": -1.2704150059896198,
+                                        "delta": 0.4320553187018246,
+                                        "gamma": 0.0025363030158095205,
+                                        "vega": 2.9116209247275697,
+                                        "iv": 20.9297277033329
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 21812.5,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2752.75,
+                            3007.25
+                        ]
+                    }
+                ]
+            },
+            {
+                "strategy_name": "Iron Condor",
+                "trading_opportunities": [
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170810,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2840,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2840PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 39.3,
+                                    "greeks": {
+                                        "theta": -1.201621824042042,
+                                        "delta": -0.3634044278540771,
+                                        "gamma": 0.0024439297400620633,
+                                        "vega": 2.7796474531770654,
+                                        "iv": 20.736281760036945
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170812,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2860,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2860PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 47.4,
+                                    "greeks": {
+                                        "theta": -1.245672347717229,
+                                        "delta": -0.41387960221764675,
+                                        "gamma": 0.0025404124996406888,
+                                        "vega": 2.885462853198539,
+                                        "iv": 20.70814184844494
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170829,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2920,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2920CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 47.95,
+                                    "greeks": {
+                                        "theta": -1.2704150059896198,
+                                        "delta": 0.4320553187018246,
+                                        "gamma": 0.0025363030158095205,
+                                        "vega": 2.9116209247275697,
+                                        "iv": 20.9297277033329
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170827,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2900,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2900CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 55.9,
+                                    "greeks": {
+                                        "theta": -1.2717756084969203,
+                                        "delta": 0.48234781666855164,
+                                        "gamma": 0.002603790341283943,
+                                        "vega": 2.9516829510742046,
+                                        "iv": 20.667768083512783
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 987.5000000000007,
+                        "max_profit": 4012.499999999999,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2843.95,
+                            2883.95
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170808,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2820,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2820PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 32.65,
+                                    "greeks": {
+                                        "theta": -1.1500748075258929,
+                                        "delta": -0.3162279223095803,
+                                        "gamma": 0.00229508349179938,
+                                        "vega": 2.6352616687731723,
+                                        "iv": 20.934140775352716
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170812,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2860,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2860PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 47.4,
+                                    "greeks": {
+                                        "theta": -1.245672347717229,
+                                        "delta": -0.41387960221764675,
+                                        "gamma": 0.0025404124996406888,
+                                        "vega": 2.885462853198539,
+                                        "iv": 20.70814184844494
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170831,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2940,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2940CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 40,
+                                    "greeks": {
+                                        "theta": -1.2279906167224646,
+                                        "delta": 0.3822109125331409,
+                                        "gamma": 0.0024698428400427423,
+                                        "vega": 2.824838600629233,
+                                        "iv": 20.85231151431799
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170827,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2900,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2900CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 55.9,
+                                    "greeks": {
+                                        "theta": -1.2717756084969203,
+                                        "delta": 0.48234781666855164,
+                                        "gamma": 0.002603790341283943,
+                                        "vega": 2.9516829510742046,
+                                        "iv": 20.667768083512783
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 2337.5000000000005,
+                        "max_profit": 7662.5,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2829.35,
+                            2869.35
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170806,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2800,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2800PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 28,
+                                    "greeks": {
+                                        "theta": -1.1139658532817274,
+                                        "delta": -0.2761587473805872,
+                                        "gamma": 0.0020922354318724016,
+                                        "vega": 2.4762966540156643,
+                                        "iv": 21.578537300229073
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170812,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2860,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2860PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 47.4,
+                                    "greeks": {
+                                        "theta": -1.245672347717229,
+                                        "delta": -0.41387960221764675,
+                                        "gamma": 0.0025404124996406888,
+                                        "vega": 2.885462853198539,
+                                        "iv": 20.70814184844494
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170833,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2960,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2960CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 35,
+                                    "greeks": {
+                                        "theta": -1.216981148139281,
+                                        "delta": 0.3402140209612238,
+                                        "gamma": 0.002300953609650804,
+                                        "vega": 2.7142966587477364,
+                                        "iv": 21.50697517208755
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170827,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2900,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2900CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 55.9,
+                                    "greeks": {
+                                        "theta": -1.2717756084969203,
+                                        "delta": 0.48234781666855164,
+                                        "gamma": 0.002603790341283943,
+                                        "vega": 2.9516829510742046,
+                                        "iv": 20.667768083512783
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 4925.000000000001,
+                        "max_profit": 10075,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2819.7,
+                            2859.7
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170808,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2820,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2820PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 32.65,
+                                    "greeks": {
+                                        "theta": -1.1500748075258929,
+                                        "delta": -0.3162279223095803,
+                                        "gamma": 0.00229508349179938,
+                                        "vega": 2.6352616687731723,
+                                        "iv": 20.934140775352716
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170810,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2840,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2840PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 39.3,
+                                    "greeks": {
+                                        "theta": -1.201621824042042,
+                                        "delta": -0.3634044278540771,
+                                        "gamma": 0.0024439297400620633,
+                                        "vega": 2.7796474531770654,
+                                        "iv": 20.736281760036945
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170831,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2940,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2940CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 40,
+                                    "greeks": {
+                                        "theta": -1.2279906167224646,
+                                        "delta": 0.3822109125331409,
+                                        "gamma": 0.0024698428400427423,
+                                        "vega": 2.824838600629233,
+                                        "iv": 20.85231151431799
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170829,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2920,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2920CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 47.95,
+                                    "greeks": {
+                                        "theta": -1.2704150059896198,
+                                        "delta": 0.4320553187018246,
+                                        "gamma": 0.0025363030158095205,
+                                        "vega": 2.9116209247275697,
+                                        "iv": 20.9297277033329
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 1349.9999999999995,
+                        "max_profit": 3650.0000000000005,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2825.4,
+                            2905.4
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170806,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2800,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2800PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 28,
+                                    "greeks": {
+                                        "theta": -1.1139658532817274,
+                                        "delta": -0.2761587473805872,
+                                        "gamma": 0.0020922354318724016,
+                                        "vega": 2.4762966540156643,
+                                        "iv": 21.578537300229073
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170810,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2840,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2840PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 39.3,
+                                    "greeks": {
+                                        "theta": -1.201621824042042,
+                                        "delta": -0.3634044278540771,
+                                        "gamma": 0.0024439297400620633,
+                                        "vega": 2.7796474531770654,
+                                        "iv": 20.736281760036945
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170833,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2960,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2960CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 35,
+                                    "greeks": {
+                                        "theta": -1.216981148139281,
+                                        "delta": 0.3402140209612238,
+                                        "gamma": 0.002300953609650804,
+                                        "vega": 2.7142966587477364,
+                                        "iv": 21.50697517208755
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170829,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2920,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2920CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 47.95,
+                                    "greeks": {
+                                        "theta": -1.2704150059896198,
+                                        "delta": 0.4320553187018246,
+                                        "gamma": 0.0025363030158095205,
+                                        "vega": 2.9116209247275697,
+                                        "iv": 20.9297277033329
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 3937.5,
+                        "max_profit": 6062.5,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2815.75,
+                            2895.75
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170806,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2800,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2800PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 28,
+                                    "greeks": {
+                                        "theta": -1.1139658532817274,
+                                        "delta": -0.2761587473805872,
+                                        "gamma": 0.0020922354318724016,
+                                        "vega": 2.4762966540156643,
+                                        "iv": 21.578537300229073
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170808,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2820,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2820PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 32.65,
+                                    "greeks": {
+                                        "theta": -1.1500748075258929,
+                                        "delta": -0.3162279223095803,
+                                        "gamma": 0.00229508349179938,
+                                        "vega": 2.6352616687731723,
+                                        "iv": 20.934140775352716
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170833,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2960,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2960CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 35,
+                                    "greeks": {
+                                        "theta": -1.216981148139281,
+                                        "delta": 0.3402140209612238,
+                                        "gamma": 0.002300953609650804,
+                                        "vega": 2.7142966587477364,
+                                        "iv": 21.50697517208755
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170831,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2940,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2940CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 40,
+                                    "greeks": {
+                                        "theta": -1.2279906167224646,
+                                        "delta": 0.3822109125331409,
+                                        "gamma": 0.0024698428400427423,
+                                        "vega": 2.824838600629233,
+                                        "iv": 20.85231151431799
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 2587.4999999999986,
+                        "max_profit": 2412.5000000000014,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2810.35,
+                            2930.35
+                        ]
+                    }
+                ]
+            },
+            {
+                "strategy_name": "Iron Butterfly",
+                "trading_opportunities": [
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170827,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2900,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2900CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 55.9,
+                                    "greeks": {
+                                        "theta": -1.2717756084969203,
+                                        "delta": 0.48234781666855164,
+                                        "gamma": 0.002603790341283943,
+                                        "vega": 2.9516829510742046,
+                                        "iv": 20.667768083512783
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170813,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 65.3,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": 0.534008394000324,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170812,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2860,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2860PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 47.4,
+                                    "greeks": {
+                                        "theta": -1.245672347717229,
+                                        "delta": -0.41387960221764675,
+                                        "gamma": 0.0025404124996406888,
+                                        "vega": 2.885462853198539,
+                                        "iv": 20.70814184844494
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170826,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 58.45,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": -0.46599160599967604,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": -112.49999999999893,
+                        "max_profit": 5112.499999999999,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2859.55,
+                            2900.45
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170829,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2920,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2920CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 47.95,
+                                    "greeks": {
+                                        "theta": -1.2704150059896198,
+                                        "delta": 0.4320553187018246,
+                                        "gamma": 0.0025363030158095205,
+                                        "vega": 2.9116209247275697,
+                                        "iv": 20.9297277033329
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170813,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 65.3,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": 0.534008394000324,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170810,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2840,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2840PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 39.3,
+                                    "greeks": {
+                                        "theta": -1.201621824042042,
+                                        "delta": -0.3634044278540771,
+                                        "gamma": 0.0024439297400620633,
+                                        "vega": 2.7796474531770654,
+                                        "iv": 20.736281760036945
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170826,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 58.45,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": -0.46599160599967604,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 875,
+                        "max_profit": 9125,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2843.5,
+                            2916.5
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170831,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2940,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2940CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 40,
+                                    "greeks": {
+                                        "theta": -1.2279906167224646,
+                                        "delta": 0.3822109125331409,
+                                        "gamma": 0.0024698428400427423,
+                                        "vega": 2.824838600629233,
+                                        "iv": 20.85231151431799
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170813,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 65.3,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": 0.534008394000324,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170808,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2820,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2820PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 32.65,
+                                    "greeks": {
+                                        "theta": -1.1500748075258929,
+                                        "delta": -0.3162279223095803,
+                                        "gamma": 0.00229508349179938,
+                                        "vega": 2.6352616687731723,
+                                        "iv": 20.934140775352716
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170826,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 58.45,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": -0.46599160599967604,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 2224.9999999999995,
+                        "max_profit": 12775,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2828.9,
+                            2931.1
+                        ]
+                    },
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170833,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2960,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2960CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 35,
+                                    "greeks": {
+                                        "theta": -1.216981148139281,
+                                        "delta": 0.3402140209612238,
+                                        "gamma": 0.002300953609650804,
+                                        "vega": 2.7142966587477364,
+                                        "iv": 21.50697517208755
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170813,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 65.3,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": 0.534008394000324,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170806,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2800,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2800PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 28,
+                                    "greeks": {
+                                        "theta": -1.1139658532817274,
+                                        "delta": -0.2761587473805872,
+                                        "gamma": 0.0020922354318724016,
+                                        "vega": 2.4762966540156643,
+                                        "iv": 21.578537300229073
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170826,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 58.45,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": -0.46599160599967604,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 4812.5,
+                        "max_profit": 15187.5,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            2819.25,
+                            2940.75
+                        ]
+                    }
+                ]
+            },
+            {
+                "strategy_name": "Short Straddle",
+                "trading_opportunities": [
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170826,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 58.45,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": -0.46599160599967604,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170813,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 65.3,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": 0.534008394000324,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "SELL",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 0,
+                        "max_profit": 30937.5,
+                        "is_infinite_profit": false,
+                        "is_infinite_loss": true,
+                        "breakeven": [
+                            3003.75,
+                            2756.25
+                        ]
+                    }
+                ]
+            },
+            {
+                "strategy_name": "Long Straddle",
+                "trading_opportunities": [
+                    {
+                        "legs": [
+                            {
+                                "option": {
+                                    "token": 170826,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "PE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880PE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 58.45,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": -0.46599160599967604,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            },
+                            {
+                                "option": {
+                                    "token": 170813,
+                                    "instrument_name": "OPTSTK",
+                                    "symbol": "RELIANCE",
+                                    "strike_price": 2880,
+                                    "option_type": "CE",
+                                    "lot_size": 250,
+                                    "security_description": "RELIANCE24FEB2880CE",
+                                    "exchange": "NSE_FO",
+                                    "expiry_date": "20240229",
+                                    "ltp": 65.3,
+                                    "greeks": {
+                                        "theta": -1.309154444193877,
+                                        "delta": 0.534008394000324,
+                                        "gamma": 0.0025160124589906257,
+                                        "vega": 2.943833825546859,
+                                        "iv": 21.331941708922386
+                                    }
+                                },
+                                "action": "BUY",
+                                "quantity": 250
+                            }
+                        ],
+                        "max_loss": 30937.5,
+                        "max_profit": 0,
+                        "is_infinite_profit": true,
+                        "is_infinite_loss": false,
+                        "breakeven": [
+                            3003.75,
+                            2756.25
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "message": "-",
+    "status": "success"
+}

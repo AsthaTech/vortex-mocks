@@ -1,0 +1,8 @@
+{
+    "data": {
+        "first_order_id": "NXAAE0003C52",
+        "iceberg_order_id": "5eaefd25-518c-4a39-b556-93fc8e78e855"
+    },
+    "message": "Order placed successfully",
+    "status": "success"
+}

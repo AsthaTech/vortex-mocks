@@ -1,0 +1,88 @@
+{
+    "data": [
+        {
+            "id": "5a9da19d-400f-47ff-aabd-429a1c98ef26",
+            "market_segment_id": 5,
+            "token": 425547,
+            "exchange": "MCX_FO",
+            "symbol": "GOLDPETAL",
+            "series": "XX",
+            "instrument_name": "FUTCOM",
+            "expiry_date": "2024-02-29",
+            "strike_price": 0,
+            "option_type": "XX",
+            "lot_size": 1,
+            "trigger_type": "single",
+            "transaction_type": "SELL",
+            "tag_ids": [
+                1,
+                2,
+                3
+            ],
+            "orders": [
+                {
+                    "id": 1255,
+                    "product": "DELIVERY",
+                    "variety": "RL",
+                    "transaction_type": "SELL",
+                    "price": 6178,
+                    "trigger_price": 6178,
+                    "quantity": 1,
+                    "status": "active",
+                    "created_at": "2024-02-05T12:41:43.056561Z",
+                    "updated_at": "2024-02-05T12:41:45.403488Z",
+                    "trigerred_at": "0001-01-01T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "id": "5a9f19d-400f-47ff-aabd-429a1c98ef26",
+            "market_segment_id": 5,
+            "token": 425547,
+            "exchange": "MCX_FO",
+            "symbol": "GOLDPETAL",
+            "series": "XX",
+            "instrument_name": "FUTCOM",
+            "expiry_date": "2024-02-29",
+            "strike_price": 0,
+            "option_type": "XX",
+            "lot_size": 1,
+            "trigger_type": "oco",
+            "transaction_type": "SELL",
+            "tag_ids": [
+                1,
+                2,
+                3
+            ],
+            "orders": [
+                {
+                    "id": 1256,
+                    "product": "DELIVERY",
+                    "variety": "RL",
+                    "transaction_type": "SELL",
+                    "price": 6178,
+                    "trigger_price": 6178,
+                    "quantity": 1,
+                    "status": "active",
+                    "created_at": "2024-02-05T12:41:43.056561Z",
+                    "updated_at": "2024-02-05T12:41:45.403488Z",
+                    "trigerred_at": "0001-01-01T00:00:00Z"
+                },
+                {
+                    "id": 1257,
+                    "product": "DELIVERY",
+                    "variety": "RL",
+                    "transaction_type": "SELL",
+                    "price": 6182,
+                    "trigger_price": 6182,
+                    "quantity": 1,
+                    "status": "active",
+                    "created_at": "2024-02-05T12:41:43.056561Z",
+                    "updated_at": "2024-02-05T12:41:45.403488Z",
+                    "trigerred_at": "0001-01-01T00:00:00Z"
+                }
+            ]
+        }
+    ],
+    "status": "success"
+}
