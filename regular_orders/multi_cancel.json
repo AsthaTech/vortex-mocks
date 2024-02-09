@@ -1,0 +1,21 @@
+{   "status": "success",
+    "data": 
+        [
+            {
+                "message": "Order Cancellation Sent to OMS",
+                "code": "s-101",
+                "status": "success",
+                "data": {
+                    "order_id": "NXAAE00007N1"
+                }
+            },
+            {
+                "message": "Order Cancellation Sent to OMS",
+                "code": "s-101",
+                "status": "success",
+                "data": {
+                    "order_id": "NXAAE00006N1"
+                }
+            }
+        ]
+}
